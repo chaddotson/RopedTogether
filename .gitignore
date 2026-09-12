@@ -1,0 +1,4 @@
+**/bin/
+**/obj/
+PeakGameDir.props
+artifacts/

@@ -1,0 +1,5 @@
+<Project>
+  <PropertyGroup>
+    <PeakGameDir>C:\Program Files (x86)\Steam\steamapps\common\PEAK</PeakGameDir>
+  </PropertyGroup>
+</Project>

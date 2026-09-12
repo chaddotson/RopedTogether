@@ -1,0 +1,9 @@
+{
+  "name": "RopedTogether",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Clip climbers together on demand with a zero-stamina dynamic belay rope.",
+  "dependencies": [
+    "BepInEx-BepInExPack_PEAK-5.4.2403"
+  ]
+}
